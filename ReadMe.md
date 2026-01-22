@@ -16,7 +16,11 @@ This project follows some of the steps found in [Vibe Coding Bootcamp by Misbah 
 ## Running the app
 
 ### Install dependencies
-```npm install```
+```
+npm install
+```
 
 ### Build & Run
-```npm run dev```
+```
+npm run dev
+```
